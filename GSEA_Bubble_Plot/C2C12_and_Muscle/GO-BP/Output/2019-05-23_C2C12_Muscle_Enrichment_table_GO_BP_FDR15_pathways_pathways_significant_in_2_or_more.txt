@@ -1,0 +1,127 @@
+C2C12	Muscle
+protein folding	2.40635589719142	1.97240352056104
+reactive oxygen species metabolic process	1.31273545210777	1.88859191559803
+response to oxidative stress	1.6456718709239	1.53402931223465
+regulation of intrinsic apoptotic signaling pathway	1.58695500677641	1.54605912948452
+intrinsic apoptotic signaling pathway	1.64652585300987	1.4334436967471
+regulation of ubiquitin-dependent protein catabolic process	1.76504110008049	1.31329311882332
+carboxylic acid biosynthetic process	1.32911173773379	1.74726062868026
+organic acid biosynthetic process	1.32213698837752	1.74489245068735
+negative regulation of protein phosphorylation	1.44636014017508	1.60500477969512
+cofactor metabolic process	1.46957070170234	1.55755614875779
+cofactor biosynthetic process	1.56272360399408	1.44685549661173
+protein import	1.32433692753281	1.6639716401071
+negative regulation of phosphorylation	1.47040017331215	1.51139179602671
+negative regulation of apoptotic signaling pathway	1.49943572263448	1.47513833939793
+mitochondrion organization	1.35958177750507	1.6052943881784
+alpha-amino acid metabolic process	1.33762364173626	1.62718711396235
+small molecule biosynthetic process	1.37031878570494	1.57784236696344
+regulation of cellular protein catabolic process	1.63006854007853	1.31579623917759
+positive regulation of protein catabolic process	1.4923601721761	1.44588536022393
+positive regulation of cellular catabolic process	1.4834741275307	1.43680848174999
+regulation of protein catabolic process	1.58411370123983	1.3294540457361
+negative regulation of protein modification process	1.47555375146621	1.42958784160612
+lipid biosynthetic process	1.30991906703729	1.58373881061114
+negative regulation of MAPK cascade	1.3314488054325	1.55870477824993
+regulation of peptidase activity	1.29390902286587	1.57406154012431
+negative regulation of transferase activity	1.45236987265618	1.40607118534073
+negative regulation of protein kinase activity	1.31353229025686	1.54050217002747
+regulation of endopeptidase activity	1.38400349360744	1.45703929331836
+cellular response to oxidative stress	1.49808574792352	1.34119942053066
+regulation of cysteine-type endopeptidase activity involved in apoptotic process	1.3749913471854	1.45881865350318
+nucleic acid transport	1.4921646772214	1.33813653301758
+RNA transport	1.4921646772214	1.33813653301758
+negative regulation of neuron death	1.48166252262572	1.34706302112378
+response to toxic substance	1.42050077811614	1.40667609382576
+nucleocytoplasmic transport	1.43322740257537	1.37688093908248
+nuclear transport	1.43322740257537	1.37688093908248
+establishment of protein localization to organelle	1.34382403665347	1.46363210883986
+RNA localization	1.52592085090605	1.27446727519296
+positive regulation of catabolic process	1.45318913415312	1.34284322636758
+regulation of apoptotic signaling pathway	1.45842887259718	1.33651201867426
+negative regulation of phosphorus metabolic process	1.37369331668278	1.4192426451617
+negative regulation of phosphate metabolic process	1.37369331668278	1.4192426451617
+regulation of cytokine production	1.308868706449	1.48141932920662
+protein import into nucleus	1.31505052680747	1.47419900231017
+import into nucleus	1.30642260127115	1.47636163335228
+establishment of RNA localization	1.47499149420979	1.3048480115187
+protein localization to nucleus	1.36594492896933	1.40666627969734
+negative regulation of catalytic activity	1.47975689204926	1.27985499853161
+response to starvation	1.31708419313664	1.42537505382058
+regulation of neuron death	1.50354387026791	1.2387043496376
+negative regulation of kinase activity	1.36843225443335	1.35927199278389
+negative regulation of intracellular signal transduction	1.21582893687542	1.49373798939416
+cellular response to hormone stimulus	1.46051477234434	1.2481252708369
+positive regulation of establishment of protein localization	1.44173741775353	1.2517965980423
+neuron death	1.4347627645965	1.20416854393267
+leukocyte mediated immunity	1.37353175921019	1.25030624223769
+cellular nitrogen compound catabolic process	1.40347945104079	1.20620277884787
+cell growth	1.28765786056962	1.32200436030427
+positive regulation of protein secretion	1.35123407020652	1.25478629000481
+negative regulation of hydrolase activity	1.30516654546003	1.30056449033188
+positive regulation of peptide secretion	1.36438569857469	1.23368857538954
+heterocycle catabolic process	1.38897339558755	1.20447834922233
+cellular response to lipid	1.28457928859178	1.30776822899959
+activation of immune response	1.31255311662972	1.27788973135055
+reproductive system development	1.36672449144106	1.20813652028395
+positive regulation of protein transport	1.28468548699613	1.26643918412984
+response to organic cyclic compound	1.29932559922306	1.23903139300622
+nucleobase-containing compound catabolic process	1.31746663992401	1.22075030147334
+developmental process involved in reproduction	1.28250560799428	1.249251037641
+angiogenesis	-1.3502357877079	1.82132028482563
+response to wounding	-1.30592395885764	1.71849815590487
+fat cell differentiation	-1.36917147668204	1.77594291190747
+extracellular structure organization	-1.76846662795596	2.13014532966851
+positive regulation of locomotion	-1.35604339703746	1.71700235837987
+positive regulation of cell motility	-1.43431851732869	1.75035764743139
+positive regulation of cell migration	-1.39517978562083	1.70832324686278
+wound healing	-1.36810309990712	1.68000705780614
+positive regulation of cellular component movement	-1.39283868793927	1.70002717253895
+extracellular matrix organization	-1.88256672849221	2.18042987503679
+mesenchymal cell differentiation	-1.32687566596808	1.53185009713234
+actin filament organization	-1.22750427563593	1.4243296936085
+cellular response to growth factor stimulus	-1.31667904401003	1.50488692076823
+transmembrane receptor protein serine/threonine kinase signaling pathway	-1.42094741840724	1.59884003213905
+response to growth factor	-1.28251684566224	1.45326307135292
+negative regulation of cell development	-1.49831063826366	1.65917399159147
+regulation of cellular response to growth factor stimulus	-1.46570876292983	1.58458113694717
+ameboidal-type cell migration	-1.3143878177286	1.4329170656692
+positive regulation of cell adhesion	-1.33468638259006	1.45122444247431
+regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	-1.4055753731605	1.51724467353188
+regulation of actin filament organization	-1.24376205481392	1.34825048706433
+negative regulation of neurogenesis	-1.40118836225381	1.49217669852857
+blood circulation	-1.27540674622756	1.36473789138663
+circulatory system process	-1.30236566657206	1.38405506726802
+negative regulation of cell motility	-1.37743573741488	1.44376940275638
+negative regulation of cellular component movement	-1.50038755694054	1.56037952496552
+negative regulation of locomotion	-1.49263896949106	1.53336335054048
+ossification	-1.37968353530467	1.4195498053192
+mesenchyme development	-1.46175202505213	1.50013170039718
+connective tissue development	-1.56052782228071	1.58473890103741
+regulation of actin filament-based process	-1.35642488724282	1.36048993360419
+negative regulation of cell migration	-1.37949008959161	1.38094670008871
+negative regulation of nervous system development	-1.44331261729993	1.43940567140715
+macroautophagy	1.32763799809044	-1.3412265003091
+organelle fission	-1.22357275559283	1.20392753110511
+muscle system process	-1.30876846203835	1.26069044224287
+eye development	-1.33994363565973	1.2789614805331
+visual system development	-1.33994363565973	1.2789614805331
+cell junction organization	-1.45529832825232	1.37633053254129
+sensory system development	-1.33994363565973	1.25911559058537
+regulation of system process	-1.3625289463583	1.26518746987287
+chemotaxis	-1.52544076565699	1.40673976245061
+regulation of cell-substrate adhesion	-1.68049723517693	1.56093912652276
+taxis	-1.53483568220343	1.40157917210283
+cell-matrix adhesion	-1.54320288256153	1.39323265432036
+bone development	-1.77803918013622	1.62305886204768
+organ growth	-1.61806101110571	1.43987660717581
+regulation of synapse structure or activity	-1.48807037458468	1.30155552801115
+regulation of synapse organization	-1.50232854022905	1.30385022529551
+positive regulation of neurogenesis	-1.52274125345846	1.30974289766738
+cell-substrate adhesion	-1.83549266507888	1.59688209901455
+positive regulation of nervous system development	-1.61437503871544	1.25186209567892
+gliogenesis	-1.69358976331452	1.31084031912281
+skeletal system morphogenesis	-1.96845291052242	1.32862477407298
+cilium assembly	-1.42692289714001	-1.2242257715854
+cilium organization	-1.45277461887166	-1.20799114516102
+pattern specification process	-1.40123272196872	-1.28501131729507

@@ -1,0 +1,151 @@
+Pathnames	signed_enrichment	minusLog10Pval
+1	protein folding	2.40635589719142	1.63458358954431
+2	ribosome biogenesis	1.87896591236973	1.63458358954431
+3	response to topologically incorrect protein	1.8320683976635	1.63458358954431
+4	regulation of ubiquitin-dependent protein catabolic process	1.76504110008049	1.63458358954431
+5	ribonucleoprotein complex biogenesis	1.75675135210904	1.63458358954431
+6	rRNA processing	1.75410930582597	1.63458358954431
+7	mRNA processing	1.74207752925589	1.63458358954431
+8	regulation of proteolysis involved in cellular protein catabolic process	1.71819265210989	1.63458358954431
+9	regulation of proteasomal protein catabolic process	1.71646752327524	1.63458358954431
+10	regulation of mRNA processing	1.69909078688192	1.63458358954431
+11	proteasome-mediated ubiquitin-dependent protein catabolic process	1.67911349328316	1.63458358954431
+12	negative regulation of proteolysis	1.6619479405158	1.63458358954431
+13	extrinsic apoptotic signaling pathway	1.64990584102517	1.63458358954431
+14	intrinsic apoptotic signaling pathway	1.64652585300987	1.57794910749154
+15	response to oxidative stress	1.6456718709239	1.63458358954431
+16	regulation of cellular protein catabolic process	1.63006854007853	1.63458358954431
+17	mRNA metabolic process	1.62698081713734	1.63458358954431
+18	RNA splicing	1.62651388973051	1.63458358954431
+19	RNA splicing, via transesterification reactions	1.62000756980597	1.57794910749154
+20	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	1.62000756980597	1.57794910749154
+21	mRNA splicing, via spliceosome	1.62000756980597	1.57794910749154
+22	protein stabilization	1.61609085226493	1.63458358954431
+23	apoptotic signaling pathway	1.599904223044	1.63458358954431
+24	regulation of mRNA metabolic process	1.59595687026415	1.57794910749154
+25	cellular response to steroid hormone stimulus	1.59494967812275	1.63458358954431
+26	nuclear export	1.59280622997452	1.63458358954431
+27	protein export from nucleus	1.58723757878282	1.63458358954431
+28	regulation of intrinsic apoptotic signaling pathway	1.58695500677641	1.63458358954431
+29	proteasomal protein catabolic process	1.58620842439111	1.63458358954431
+30	regulation of protein catabolic process	1.58411370123983	1.63458358954431
+31	cofactor biosynthetic process	1.56272360399408	1.57794910749154
+32	rRNA metabolic process	1.55834987561359	1.57794910749154
+33	response to reactive oxygen species	1.5579814134152	1.57794910749154
+34	positive regulation of apoptotic signaling pathway	1.5557896300279	1.63458358954431
+35	regulation of cellular catabolic process	1.53093446343568	1.63458358954431
+36	modification-dependent protein catabolic process	1.52683366689346	1.63458358954431
+37	RNA localization	1.52592085090605	1.42728299104925
+38	ubiquitin-dependent protein catabolic process	1.52241624292189	1.63458358954431
+39	regulation of proteolysis	1.52140025218564	1.63458358954431
+40	modification-dependent macromolecule catabolic process	1.5203991799364	1.63458358954431
+41	regulation of protein ubiquitination	1.51672725351354	1.42728299104925
+42	regulation of protein modification by small protein conjugation or removal	1.51495792495434	1.47968404073129
+43	regulation of neuron death	1.50354387026791	1.57794910749154
+44	negative regulation of apoptotic signaling pathway	1.49943572263448	1.42550472665984
+45	cellular response to oxidative stress	1.49808574792352	1.42728299104925
+46	positive regulation of protein catabolic process	1.4923601721761	1.35534151958877
+47	nucleic acid transport	1.4921646772214	1.57794910749154
+48	RNA transport	1.4921646772214	1.57794910749154
+49	positive regulation of cellular catabolic process	1.4834741275307	1.47968404073129
+50	negative regulation of neuron death	1.48166252262572	1.47968404073129
+51	regulation of neuron apoptotic process	1.48163274436167	1.35534151958877
+52	negative regulation of catalytic activity	1.47975689204926	1.63458358954431
+53	negative regulation of protein modification process	1.47555375146621	1.63458358954431
+54	establishment of RNA localization	1.47499149420979	1.35534151958877
+55	regulation of RNA splicing	1.47258776930401	1.42728299104925
+56	negative regulation of phosphorylation	1.47040017331215	1.47968404073129
+57	cofactor metabolic process	1.46957070170234	1.57794910749154
+58	cellular response to hormone stimulus	1.46051477234434	1.57794910749154
+59	regulation of apoptotic signaling pathway	1.45842887259718	1.47968404073129
+60	regulation of protein stability	1.45444581267346	1.42522813532425
+61	positive regulation of catabolic process	1.45318913415312	1.47968404073129
+62	negative regulation of transferase activity	1.45236987265618	1.31122124484114
+63	negative regulation of establishment of protein localization	1.44994543950002	1.22965386963739
+64	negative regulation of protein phosphorylation	1.44636014017508	1.42728299104925
+65	response to hormone	1.44447741280389	1.63458358954431
+66	response to steroid hormone	1.44320447464765	1.27478093963169
+67	positive regulation of establishment of protein localization	1.44173741775353	1.47968404073129
+68	ncRNA processing	1.4377892408092	1.47968404073129
+69	hormone-mediated signaling pathway	1.43704566530128	1.16423325598093
+70	steroid metabolic process	1.43693111204405	1.27478093963169
+71	regulation of establishment of protein localization	1.43506907784193	1.63458358954431
+72	neuron death	1.4347627645965	1.47968404073129
+73	nucleocytoplasmic transport	1.43322740257537	1.42728299104925
+74	nuclear transport	1.43322740257537	1.42728299104925
+75	response to toxic substance	1.42050077811614	1.27478093963169
+76	positive regulation of programmed cell death	1.41583048196619	1.63458358954431
+77	sex differentiation	1.41489586418229	1.19696867629268
+78	telomere maintenance	1.4137851314424	1.10391077754764
+79	proteolysis involved in cellular protein catabolic process	1.41108978630569	1.57794910749154
+80	cellular nitrogen compound catabolic process	1.40347945104079	1.42728299104925
+81	telomere organization	1.39990323169657	1.07047412377492
+82	neuron apoptotic process	1.39927996089705	1.15105989003805
+83	organic cyclic compound catabolic process	1.397437953347	1.47968404073129
+84	positive regulation of apoptotic process	1.39674065573859	1.63458358954431
+85	reproductive structure development	1.39372348967484	1.27478093963169
+86	positive regulation of cell death	1.39122078415969	1.63458358954431
+87	positive regulation of DNA metabolic process	1.38960340009114	1.12182451932021
+88	heterocycle catabolic process	1.38897339558755	1.32166034782407
+89	response to lipid	1.38778639114851	1.57794910749154
+90	regulation of endopeptidase activity	1.38400349360744	1.08281950846373
+91	regulation of cysteine-type endopeptidase activity involved in apoptotic process	1.3749913471854	0.999151678998682
+92	organic hydroxy compound metabolic process	1.37434247734936	1.05216977568469
+93	negative regulation of phosphorus metabolic process	1.37369331668278	1.42728299104925
+94	negative regulation of phosphate metabolic process	1.37369331668278	1.42728299104925
+95	leukocyte mediated immunity	1.37353175921019	1.01305207996102
+96	small molecule biosynthetic process	1.37031878570494	1.42728299104925
+97	negative regulation of kinase activity	1.36843225443335	1.06912370837566
+98	reproductive system development	1.36672449144106	1.12484665692978
+99	protein localization to nucleus	1.36594492896933	1.16274392017848
+100	positive regulation of peptide secretion	1.36438569857469	1.01305207996102
+101	DNA biosynthetic process	1.35966968400616	0.999151678998682
+102	mitochondrion organization	1.35958177750507	1.33135861372874
+103	aromatic compound catabolic process	1.35748515327719	1.20351334059798
+104	negative regulation of catabolic process	1.35677986174749	1.0818349688526
+105	positive regulation of protein secretion	1.35123407020652	0.934242403128407
+106	establishment of protein localization to organelle	1.34382403665347	1.23970887549134
+107	ribonucleoprotein complex subunit organization	1.34189381488664	0.999151678998682
+108	circadian rhythm	1.34010441235695	0.918073933601808
+109	ribonucleoprotein complex assembly	1.33924752656429	0.970493055615525
+110	regulation of intracellular transport	1.33860058025907	1.15228415222694
+111	alpha-amino acid metabolic process	1.33762364173626	0.984727978071166
+112	negative regulation of MAPK cascade	1.3314488054325	0.916652301463654
+113	carboxylic acid biosynthetic process	1.32911173773379	0.928036690900083
+114	positive regulation of DNA-binding transcription factor activity	1.32892675517388	0.897790685830588
+115	macroautophagy	1.32763799809044	0.898618338101937
+116	nucleobase-containing compound transport	1.3267107926372	0.898618338101937
+117	protein import	1.32433692753281	0.934242403128407
+118	organic acid biosynthetic process	1.32213698837752	0.897790685830588
+119	autophagy	1.31979695388163	1.10758228370464
+120	process utilizing autophagic mechanism	1.31979695388163	1.10758228370464
+121	nucleobase-containing compound catabolic process	1.31746663992401	1.10578330781699
+122	response to starvation	1.31708419313664	0.870540545088705
+123	protein import into nucleus	1.31505052680747	0.873799364392938
+124	negative regulation of protein kinase activity	1.31353229025686	0.826546852828946
+125	reactive oxygen species metabolic process	1.31273545210777	0.867472388762798
+126	activation of immune response	1.31255311662972	0.867472388762798
+127	lipid biosynthetic process	1.30991906703729	1.0347542056831
+128	regulation of intracellular protein transport	1.30983417185112	0.872956927223965
+129	regulation of cytokine production	1.308868706449	1.0818349688526
+130	response to radiation	1.3067674669873	1.03841233834022
+131	regulation of cellular response to stress	1.30670669956955	1.34447620247356
+132	import into nucleus	1.30642260127115	0.859665383942389
+133	negative regulation of hydrolase activity	1.30516654546003	0.873799364392938
+134	negative regulation of cellular catabolic process	1.29967381079935	0.873799364392938
+135	response to organic cyclic compound	1.29932559922306	1.1312018121095
+136	regulation of DNA-binding transcription factor activity	1.29878404475655	0.989261948454707
+137	regulation of DNA metabolic process	1.29642332036625	1.06647888337058
+138	regulation of peptidase activity	1.29390902286587	0.831254437822753
+139	ncRNA metabolic process	1.29060451011786	1.07047412377492
+140	RNA catabolic process	1.29039616643547	0.824449040543524
+141	cytokine production	1.28945366369057	1.04868642851664
+142	cell growth	1.28765786056962	1.0818349688526
+143	regulation of cellular protein localization	1.2872880369579	1.18242827353832
+144	regulation of peptide transport	1.28576643524996	1.19262067828425
+145	positive regulation of protein transport	1.28468548699613	0.951109211277404
+146	cellular response to lipid	1.28457928859178	0.929509848507107
+147	developmental process involved in reproduction	1.28250560799428	1.03257421964291
+148	regulation of protein transport	1.27984356264367	1.12182451932021
+149	carboxylic acid metabolic process	1.2689889887666	1.10677376037328
+150	negative regulation of intracellular signal transduction	1.21582893687542	0.824449040543524

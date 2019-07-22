@@ -1,0 +1,12 @@
+kallisto quant -i Mus_musculus.GRCm38.p6.Ens94.cdna_2018-12-19.idx -o CTL_1 C2C12_Control_S1_R1_val_1.fq.gz C2C12_Control_S1_R2_val_2.fq.gz
+kallisto quant -i Mus_musculus.GRCm38.p6.Ens94.cdna_2018-12-19.idx -o CTL_2 C2C12_Control_S2_R1_val_1.fq.gz C2C12_Control_S2_R2_val_2.fq.gz
+kallisto quant -i Mus_musculus.GRCm38.p6.Ens94.cdna_2018-12-19.idx -o CTL_3 C2C12_Control_S3_R1_val_1.fq.gz C2C12_Control_S3_R2_val_2.fq.gz
+kallisto quant -i Mus_musculus.GRCm38.p6.Ens94.cdna_2018-12-19.idx -o CTL_4 C2C12_Control_S4_R1_val_1.fq.gz C2C12_Control_S4_R2_val_2.fq.gz
+kallisto quant -i Mus_musculus.GRCm38.p6.Ens94.cdna_2018-12-19.idx -o CTL_5 C2C12_Control_S5_R1_val_1.fq.gz C2C12_Control_S5_R2_val_2.fq.gz
+kallisto quant -i Mus_musculus.GRCm38.p6.Ens94.cdna_2018-12-19.idx -o CTL_6 C2C12_Control_S6_R1_val_1.fq.gz C2C12_Control_S6_R2_val_2.fq.gz
+kallisto quant -i Mus_musculus.GRCm38.p6.Ens94.cdna_2018-12-19.idx -o MOTSc_1 C2C12_MOTSc_S7_R1_val_1.fq.gz C2C12_MOTSc_S7_R2_val_2.fq.gz
+kallisto quant -i Mus_musculus.GRCm38.p6.Ens94.cdna_2018-12-19.idx -o MOTSc_2 C2C12_MOTSc_S8_R1_val_1.fq.gz C2C12_MOTSc_S8_R2_val_2.fq.gz
+kallisto quant -i Mus_musculus.GRCm38.p6.Ens94.cdna_2018-12-19.idx -o MOTSc_3 C2C12_MOTSc_S9_R1_val_1.fq.gz C2C12_MOTSc_S9_R2_val_2.fq.gz
+kallisto quant -i Mus_musculus.GRCm38.p6.Ens94.cdna_2018-12-19.idx -o MOTSc_4 C2C12_MOTSc_S10_R1_val_1.fq.gz C2C12_MOTSc_S10_R2_val_2.fq.gz
+kallisto quant -i Mus_musculus.GRCm38.p6.Ens94.cdna_2018-12-19.idx -o MOTSc_5 C2C12_MOTSc_S11_R1_val_1.fq.gz C2C12_MOTSc_S11_R2_val_2.fq.gz
+kallisto quant -i Mus_musculus.GRCm38.p6.Ens94.cdna_2018-12-19.idx -o MOTSc_6 C2C12_MOTSc_S12_R1_val_1.fq.gz C2C12_MOTSc_S12_R2_val_2.fq.gz
